@@ -1,0 +1,50 @@
+"Airplane!"
+"Monty Python and the Holy Grail"
+"Anchorman: The Legend of Ron Burgundy"
+"Dumb and Dumber"
+"Superbad"
+"The Hangover"
+"Bridesmaids"
+ "Caddyshack"
+"Ferris Bueller's Day Off"
+"The Grand Budapest Hotel" (Comedy-Drama)
+"Groundhog Day"
+"Napoleon Dynamite"
+"Ghostbusters"
+"Shaun of the Dead" (Comedy-Horror)
+"The Princess Bride" (Adventure-Comedy)
+"The Big Lebowski"
+"The Naked Gun: From the Files of Police Squad!"
+"This Is Spinal Tap" (Mockumentary)
+"The 40-Year-Old Virgin"
+"Fargo" (Dark Comedy)
+"Hot Fuzz"
+"Office Space"
+"The Pink Panther"
+"The Producers"
+"Zoolander"
+"Step Brothers"
+"Tropic Thunder"
+"Ted"
+"Dodgeball: A True Underdog Story"
+"The Devil Wears Prada" (Comedy-Drama)
+"The Truman Show" (Comedy-Drama)
+"Annie Hall" (Romantic Comedy)
+"Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan"
+"The Lobster" (Comedy-Drama)
+"Little Miss Sunshine" (Comedy-Drama)
+"Scott Pilgrim vs. The World" (Action-Comedy)
+"The Blues Brothers"
+"Clerks"
+"A Night at the Opera"
+"Bottle Rocket"
+"School of Rock"
+"The Royal Tenenbaums" (Comedy-Drama)
+"Big"
+"The Great Dictator"
+"Hunt for the Wilderpeople" (Adventure-Comedy)
+"Lost in America"
+"Amélie" (Romantic Comedy)
+"The Birdcage"
+"M*A*S*H" (War Comedy)
+"Rushmore"

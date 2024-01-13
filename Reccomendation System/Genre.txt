@@ -1,0 +1,17 @@
+action
+adventure
+biography
+crime
+drama
+fantasy
+horror
+mystery
+romance
+science
+fiction
+sci-fi
+sports
+sport
+thriller
+comedy
+documentary
