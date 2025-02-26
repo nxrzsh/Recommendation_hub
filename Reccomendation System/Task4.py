@@ -5,7 +5,7 @@ class Books:
     def count_words(genre):
         total_words = 0
         genre_list = []
-        for i in gen:
+        for i in genre:
             if (i == "+"):
                 word_list = genre.split("+")
             else:
@@ -25,9 +25,9 @@ class Books:
                     try:
                         with open(Genre_path, 'r') as file:
                             lines = file.readlines()
-                            ind = random.randint(0, 12)
+                            ind = random.randint(1, 12)
                             for i in range(ind):
-                                index = random.randint(0, 50)
+                                index = random.randint(1, 50)
                                 random_line = lines[index]            
                                 print(random_line.strip())                      
                     except FileNotFoundError:
